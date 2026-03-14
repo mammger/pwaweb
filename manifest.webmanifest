@@ -1,0 +1,18 @@
+{
+  "name": "最简单 PWA",
+  "short_name": "PWA",
+  "description": "一个最简单的 Progressive Web App 示例",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "background_color": "#0f172a",
+  "theme_color": "#2563eb",
+  "icons": [
+    {
+      "src": "icons/icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    }
+  ]
+}
